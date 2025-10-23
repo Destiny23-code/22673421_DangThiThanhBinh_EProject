@@ -1,0 +1,7 @@
+node_modules/
+api-gateway/.env
+auth/.env
+product/.env
+order/.env
+.DS_Store
+npm-debug.log
